@@ -1,5 +1,3 @@
-# hf-agents-course
-Repositório para os projetos e exercícios práticos do Hugging Face Agents Course.
 # Hugging Face Agents & AI Tools 🤖
 
 Este repositório contém os projetos e agentes desenvolvidos durante o **Hugging Face Agents Course**.
